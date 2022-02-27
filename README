@@ -1,0 +1,18 @@
+Requirements:
+
+FTP - SFTP Server (I use Debian)
+WinSCP Automation Files
+PuttyGen or Generate keys with ssh-keygen.
+Windows OS to use execute PowerShell Script.
+
+Links:
+
+WinSCP - https://winscp.net/download/WinSCP-5.19.6-Automation.zip
+PuttyGen - https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html  | https://the.earth.li/~sgtatham/putty/latest/w64/puttygen.exe
+Windows OS
+Linux (Debian or other prefered)
+
+
+You can alose use Filezilla FTP Server.
+
+FileZilla: https://filezilla-project.org/download.php?type=server
