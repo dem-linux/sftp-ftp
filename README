@@ -1,3 +1,5 @@
+I used Linode to host my SFTP Server. https://www.linode.com/
+
 Requirements:
 
 FTP - SFTP Server (I use Debian)
@@ -10,7 +12,7 @@ Links:
 WinSCP - https://winscp.net/download/WinSCP-5.19.6-Automation.zip
 PuttyGen - https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html  | https://the.earth.li/~sgtatham/putty/latest/w64/puttygen.exe
 Windows OS
-Linux (Debian or other prefered)
+Linux (Debian or other prefered) https://www.debian.org/
 
 
 You can alose use Filezilla FTP Server.
