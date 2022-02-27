@@ -16,3 +16,8 @@ Linux (Debian or other prefered)
 You can alose use Filezilla FTP Server.
 
 FileZilla: https://filezilla-project.org/download.php?type=server
+
+
+Commands I use in Linux Server:
+
+Get Server Fingerprint: ssh-keygen -lf /etc/ssh/ssh_host_rsa_key.pub
