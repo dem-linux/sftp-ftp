@@ -28,6 +28,7 @@ try
         $transferOptions.TransferMode = [WinSCP.TransferMode]::Binary
         $transferResult =
             $session.GetFiles("/root/SFTP/*", "D:\ftp-test\", $False, $transferOptions) #Get files from /root/SFTP/ to D:\ftp-test\
+            # Use $session.PutFiles(LocalPath, RemotePath) instead If you are wanting to send files to the SFTP/FTP Server.
 
         # Throw on any error
         $transferResult.Check()
